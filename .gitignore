@@ -1,0 +1,5 @@
+tests/thexdump
+examples/basic
+examples/dumpfile
+nimcache/
+*.exe
